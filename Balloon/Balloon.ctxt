@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Balloon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Balloon\ here.\r\n\r\n\ @author\ Andrew\ Ortiz\r\n\ @version\ March\ 3,\ 2021\r\n
+comment1.params=color\ size
+comment1.target=Balloon(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Balloon\r\n
+comment2.params=amount
+comment2.target=void\ inflate(double)
+comment2.text=\r\n\ Inflate\ meathod\ takes\ param\ and\ adds\ it\ to\ the\ size\ varible\ \r\n\r\n\ @param\ \ amount\ that\ the\ balloon\ will\ be\ inflated\ by\r\n
+comment3.params=
+comment3.target=double\ volume()
+comment3.text=\r\n\ Calculates\ the\ volume\ of\ the\ object\r\n\r\n\ @return\ \ \ \ The\ volume\ of\ the\ object\r\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment4.text=\r\n\ Gets\ and\ returns\ color\ of\ the\ object\r\n
+numComments=5

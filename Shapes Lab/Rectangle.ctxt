@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Rectangle\ is\ another\ subclass\ of\ Shape\r\n\r\n\ @author\ Andrew\ Ortiz\r\n\ @version\ 05/12/21\r\n
+comment1.params=color\ filled\ length\ width
+comment1.target=Rectangle(java.lang.String,\ boolean,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment2.text=\r\n\ calculates\ and\ returns\ the\ perimeter\r\n\r\n\ @return\ all\ the\ sides\ added\ up(perimeter\ of\ the\ rectangle)\r\n
+comment3.params=
+comment3.target=double\ getArea()
+comment3.text=\r\n\ calculates\ and\ returns\ the\ area\r\n\r\n\ @return\ returns\ area\ of\ this\ instance\ of\ rectangle\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\ for\ the\ Rectangle\ class\r\n\r\n\ @return\ Returns\ the\ super\ classes\ toString\ and\ the\ characteristics\ of\ this\ instance\ of\ a\ rectangle\r\n
+numComments=5

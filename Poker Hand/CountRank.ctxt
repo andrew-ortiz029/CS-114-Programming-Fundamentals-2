@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CountRank
+comment0.text=\r\n\ Puts\ the\ amount\ of\ ranks\ in\ a\ hand\ into\ an\ array\ and\ has\ methods\ to\ determine\ to\ determine\ what\ kind\ of\ a\ hand\ it\ is\ \r\n\r\n\ @author\ Andrew\ Ortiz\r\n\ @version\ 4/30/21\r\n
+comment1.params=h
+comment1.target=CountRank(Hand)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CountRank\r\n
+comment2.params=
+comment2.target=boolean\ onePair()
+comment2.text=\r\n\ Checks\ the\ rank\ array\ for\ one\ pair\r\n\ @returns\ true\ if\ there's\ ONE\ pair\r\n
+comment3.params=
+comment3.target=boolean\ twoPair()
+comment3.text=\r\n\ Checks\ the\ rank\ array\ for\ two\ pairs\r\n\ @return\ true\ if\ there's\ TWO\ pairs\r\n
+comment4.params=
+comment4.target=boolean\ threeOfAKind()
+comment4.text=\r\n\ Checks\ the\ rank\ array\ for\ three\ of\ a\ kind\r\n\ @returns\ true\ if\ there's\ a\ three\ of\ a\ kind\ in\ the\ hand\r\n
+comment5.params=min\ max
+comment5.target=boolean\ straight(int,\ int)
+comment5.text=\r\n\ Checks\ the\ rank\ array\ for\ a\ straight\ \r\n\ @param\ lowest\ rank\ and\ highest\ rank\ of\ the\ hand\r\n\ @returns\ true\ if\ there's\ a\ straight\r\n
+comment6.params=
+comment6.target=boolean\ fullHouse()
+comment6.text=\r\n\ Checks\ the\ rank\ array\ for\ a\ three\ of\ a\ kind\ and\ a\ pair\r\n\ @returns\ true\ if\ there's\ a\ three\ of\ a\ kind\ and\ a\ pair\r\n
+comment7.params=
+comment7.target=boolean\ fourOfAKind()
+comment7.text=\r\n\ Checks\ the\ rank\ array\ for\ a\ four\ of\ a\ kind\r\n\ @returns\ true\ if\ there's\ a\ four\ of\ a\ kind\r\n
+numComments=8

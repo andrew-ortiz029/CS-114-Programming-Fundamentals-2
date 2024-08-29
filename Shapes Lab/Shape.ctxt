@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Super\ class\ for\ all\ my\ shape\ classes\r\n\r\n\ @author\ Andrew\ Ortiz\r\n\ @version\ 05/12/21\r\n
+comment1.params=color\ filled
+comment1.target=Shape(java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Shape\r\n
+comment2.params=newColor
+comment2.target=void\ changeColor(java.lang.String)
+comment2.text=\r\n\ changes\ Color\ instance\ of\ this\ shape\r\n\r\n\ @return\ returns\ color\r\n
+comment3.params=newFill
+comment3.target=void\ changeFilled(boolean)
+comment3.text=\r\n\ changes\ filled\ instance\ of\ this\ shape\r\n\r\n\ @return\ returns\ wether\ or\ not\ its\ filled.\r\n
+comment4.params=
+comment4.target=double\ getPerimeter()
+comment4.text=\r\n\ made\ for\ override\r\n\r\n\ @return\ nothing\ method\ is\ for\ override\r\n
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\r\n\ made\ for\ override\r\n\r\n\ @return\ nothing\ method\ is\ for\ override\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ format\ that\ suits\ all\ subClasses\ of\ shapes.\r\n\r\n\ @return\ returns\ toString\ format\ for\ Shape\ and\ all\ subclasses\r\n
+numComments=7

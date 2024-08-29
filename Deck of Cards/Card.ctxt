@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\r\n\ @author\ Andrew\ Ortiz\r\n\ @version\ 4/7/2021\r\n
+comment1.params=rank\ suit
+comment1.target=Card(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,28 @@
+Starting shapes
+
+Triangle[color=white, filled=true][side1=3.0, side2=2.5, side3=2.0]
+Perimeter is : 7.50
+Area is : 3.75
+
+Rectangle[color=red, filled=true][length=2.0, width=4.0]
+Perimeter is : 12.00
+Area is : 8.00
+
+Circle[color=yellow, filled=false][radius=1.0]
+Perimeter is : 6.28
+Area is : 3.14
+
+Changed shapes
+
+Triangle[color=white, filled=false][side1=3.0, side2=2.5, side3=2.0]
+Perimeter is : 7.50
+Area is : 3.75
+
+Rectangle[color=blue, filled=true][length=2.0, width=4.0]
+Perimeter is : 12.00
+Area is : 8.00
+
+Circle[color=black, filled=true][radius=1.0]
+Perimeter is : 6.28
+Area is : 3.14
+

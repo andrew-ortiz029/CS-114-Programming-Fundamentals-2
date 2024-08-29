@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BunchOfPoints
+comment0.text=\r\n\ Works\ with\ bunches\ of\ points.\ \ Demonstrates\ many\ classes,\r\n\ many\ ArrayLists.\r\n\r\n\ @author\ Anthony\ W.\ Smith\r\n\ @version\ 7/31/2028\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Creates\ and\ uses\ many\ Bunch\ objects.\r\n
+numComments=2

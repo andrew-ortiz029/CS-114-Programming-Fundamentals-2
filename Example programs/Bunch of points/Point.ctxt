@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ Represents\ one\ (x,\ y)\ point.\r\n\r\n\ @author\ Anthony\ W.\ Smith\r\n\ @version\ 7/31/2028\r\n
+comment1.params=xIn\ yIn
+comment1.target=Point(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Point.\r\n\ \r\n\ @param\ \ xIn\ \ to\ set\ x\r\n\ @param\ \ yIn\ \ to\ set\ y\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ a\ point,\ nicely\ formatted.\r\n\r\n\ @return\ \ \ \ nicely\ formatted\ String\r\n
+numComments=3

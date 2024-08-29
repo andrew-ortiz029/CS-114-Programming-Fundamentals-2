@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArraysInJava
+comment0.text=\r\n\ Demonstrates\ arrays\ in\ Java.\r\n\ \r\n\ @author\ Anthony\ W.\ Smith\r\n\ @version\ 5/31/2028\r\n
+comment1.params=
+comment1.target=ArraysInJava()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArraysInJava\r\n
+comment2.params=array
+comment2.target=void\ initialize(int[])
+comment2.text=\r\n\ Initializes\ all\ array\ elements\ to\ 0.\r\n\ \r\n\ @param\ \ array\ \ \ an\ array\ of\ int\ to\ be\ initialized\r\n
+comment3.params=a\ target
+comment3.target=int\ find(int[],\ int)
+comment3.text=\r\n\ Returns\ index\ of\ first\ occurrence\ of\ target\ within\ a[],\r\n\ or\ -1\ if\ not\ found.\r\n\r\n\ @param\ \ a[]\ \ array\ to\ search\r\n\ @param\ \ target\ \ value\ to\ search\ for\r\n\ @return\ \ \ \ index\ of\ first\ occurrence,\ or\ -1\ if\ not\ found\r\n
+numComments=4

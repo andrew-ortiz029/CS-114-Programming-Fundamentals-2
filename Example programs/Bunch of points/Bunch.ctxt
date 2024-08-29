@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bunch
+comment0.text=\r\n\ Holds\ Point\ objects.\ \ Uses\ ArrayList.\r\n\r\n\ @author\ Anthony\ W.\ Smith\r\n\ @version\ 7/31/2028\r\n
+comment1.params=
+comment1.target=Bunch()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bunch.\r\n
+comment2.params=
+comment2.target=void\ fill()
+comment2.text=\r\n\ Fills\ the\ bunch\ with\ some\ constant\ number\ of\ 'diagonal'\ points.\r\n
+comment3.params=
+comment3.target=void\ shake()
+comment3.text=\r\n\ Shakes\ the\ bunch\ into\ a\ random\ order.\r\n
+comment4.params=
+comment4.target=Point\ getPoint()
+comment4.text=\r\n\ Removes\ the\ point\ from\ the\ front\ of\ the\ bunch\ and\ returns\ it.\r\n\r\n\ @return\ \ \ \ the\ point\ from\ the\ front\ of\ the\ bunch\r\n
+comment5.params=p
+comment5.target=void\ addPoint(Point)
+comment5.text=\r\n\ Adds\ a\ point\ to\ the\ end\ of\ the\ bunch.\r\n\r\n\ @param\ \ p\ \ point\ to\ add\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Returns\ a\ bunch,\ nicely\ formatted.\r\n\r\n\ @return\ \ \ \ nicely\ formatted\ String\r\n
+numComments=7

@@ -1,0 +1,32 @@
+2. All Students:
+Students[Student[name=Name0, age=22, gpa=1.2],
+Student[name=Name1, age=22, gpa=2.71],
+Student[name=Name2, age=19, gpa=3.51],
+Student[name=Name3, age=18, gpa=3.91],
+Student[name=Name4, age=20, gpa=1.6],
+Student[name=Name5, age=19, gpa=1.03],
+Student[name=Name6, age=18, gpa=3.78],
+Student[name=Name7, age=19, gpa=3.19],
+Student[name=Name8, age=18, gpa=2.37],
+Student[name=Name9, age=21, gpa=1.01]]
+
+3. Student with the Best GPA:
+Student[name=Name3, age=18, gpa=3.91]
+
+4. Average Student GPA: 2.43
+
+5/6. Below Average Students: 5
+---
+
+5/6. Above Average Students: 5
+Student[name=Name1, age=22, gpa=2.71]
+Student[name=Name2, age=19, gpa=3.51]
+Student[name=Name3, age=18, gpa=3.91]
+Student[name=Name6, age=18, gpa=3.78]
+Student[name=Name7, age=19, gpa=3.19]
+
+7. Youngest Student with Below Average GPA:
+Student[name=Name8, age=18, gpa=2.37]
+
+8. Average Age of Students with Below Average GPA:
+20

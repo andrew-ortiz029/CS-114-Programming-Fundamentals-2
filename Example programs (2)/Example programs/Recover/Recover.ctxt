@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Recover()
+comment1.params=
+comment1.target=int\ getInt()
+comment1.text=\r\n\ prompts\ for\ and\ reads\ an\ int\r\n\r\n\ @return\ \ \ \ \ an\ int\r\n
+comment2.params=x\ y
+comment2.target=int\ divide(int,\ int)
+comment2.text=\r\n\ returns\ x\ divided\ by\ y\r\n\ \r\n\ @param\ \ x,\ y\ \ \ numerator,\ denominator\r\n\ @return\ x\ \ \ \ \ \ divided\ by\ y\r\n
+numComments=3

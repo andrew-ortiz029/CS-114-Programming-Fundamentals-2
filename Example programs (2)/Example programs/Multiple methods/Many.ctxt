@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Many
+comment0.text=\r\n\ Demonstrate\ Java\ exception\ handling\ -\ with\ method(s)\ between\ try\ and\ throw\r\n\ \r\n\ @author\ Anthony\ W.\ Smith\r\n\ @version\ 5/31/2028\r\n
+comment1.params=argv
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y
+comment2.target=int\ dummy(int,\ int)
+comment2.text=\r\n\ Extra\ level\ between\ try\ and\ throw\r\n\r\n\ @param\ \ x,\ y\ \ \ numerator,\ denominator\r\n\ @return\ \ \ \ \ \ \ \ x\ divided\ by\ y\r\n
+comment3.params=x\ y
+comment3.target=int\ divide(int,\ int)
+comment3.text=\r\n\ returns\ x\ divided\ by\ y\r\n\ \r\n\ @param\ \ x,\ y\ \ \ numerator,\ denominator\r\n\ @return\ \ \ \ \ \ \ \ x\ divided\ by\ y\r\n
+numComments=4

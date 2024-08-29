@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\r\n\ Class\ to\ create\ and\ change\ stocks\r\n\r\n\ Andrew\ Ortiz\r\n\ 2/17/2021\r\n
+comment1.params=symb\ currentPrice
+comment1.target=Stock(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Stock\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSymbol()
+comment2.text=\r\n\ returns\ the\ symbol\ of\ the\ stock\r\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\r\n\ returns\ the\ current\ price\ of\ the\ stock\r\n
+comment4.params=byPercent
+comment4.target=void\ changePrice(double)
+comment4.text=\r\n\ Changes\ the\ current\ price\ of\ the\ stock\r\n
+numComments=5

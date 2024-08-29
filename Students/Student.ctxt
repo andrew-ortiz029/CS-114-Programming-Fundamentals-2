@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=arg0_name\ arg1_age\ arg2_gpa
+comment1.target=Student(java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Student()\ -\ Substantiates\ a\ new\ Student\ constructor.\r\n\ \r\n\ @param\ arg0_name\ Specifies\ the\ name\ of\ the\ student.\r\n\ @param\ arg1_age\ \ Specifies\ the\ age\ of\ the\ student.\r\n\ @param\ arg2_gpa\ \ Specifies\ the\ GPA\ of\ the\ student.\r\n
+comment2.params=arg0_field_name
+comment2.target=java.lang.Object\ fetchValue(java.lang.String)
+comment2.text=\r\n\ fetchValue()\ -\ Returns\ the\ value\ of\ a\ given\ variable\ dynamically.\r\n\ \r\n\ @param\ arg0_field_name\ The\ name\ of\ the\ variable\ whose\ value\ you\ wish\ to\ return.\r\n\ @return\ Regular\ object\ type\ of\ any\ instance\ variable\ within\ this\ class.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ toString()\ -\ Returns\ a\ neatly\ formatted\ string\ of\ the\ simple\ class\ name\ and\ all\ private\ instance\ variables\ and\ their\ respective\ values\ therein.\r\n\ \r\n\ @return\ Returns\ formatted\ string.\r\n
+numComments=4

@@ -1,0 +1,4 @@
+pointA is: java.awt.Point[x=0,y=10]
+pointB is: java.awt.Point[x=20,y=30]
+The new location of pointA is: java.awt.Point[x=20,y=30]
+The new location of pointB is: java.awt.Point[x=70,y=50]

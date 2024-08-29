@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OutOfGasException()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ OutOfGasException\r\n
+comment1.params=message
+comment1.target=OutOfGasException(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OutOfGasException\r\n
+numComments=2
